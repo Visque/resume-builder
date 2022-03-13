@@ -2,7 +2,7 @@ import React from 'react'
 import './static/rightWin.css'
 
 import LeftSide from './leftComp/leftSide'
-import RightSide from './leftComp/rightSide'
+import RightSide from './rightComp/rightSide'
 
 function rightWin() {
   return (
@@ -10,10 +10,9 @@ function rightWin() {
       <div className="resume flex">
         <div className="leftSide">
           <LeftSide />
-          <RightSide />
         </div>
         <div className="rightSide">
-
+          <RightSide />
         </div>
       </div>
     </div>

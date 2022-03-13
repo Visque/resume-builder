@@ -26,5 +26,15 @@
 }
 
 .rightSide{
-    width: 65%;
+    margin: 0 0 0 auto;
+    width: 60%;
+}
+
+.content-1{
+    color: red;
+    margin: 0.5rem 0;
+}
+
+.content-2{
+    margin: 0.3rem 0;
 }
