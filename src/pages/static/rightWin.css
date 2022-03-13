@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.rightWin{
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.resume{
+    background-color: white;
+    width: 21cm;
+    min-width: 0cm;
+    min-height: 29.7cm;
+    padding: 2cm;
+    margin: 1cm auto;
+    border: 1px #D3D3D3 solid;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.leftSide{
+    width: 35%;
+}
+
+.rightSide{
+    width: 65%;
+}

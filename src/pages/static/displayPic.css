@@ -1,0 +1,11 @@
+.dpBorder{
+    border: 2px red solid;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.dp{
+    justify-content: space-around;
+    margin: 0.5rem auto; 
+    height: 200px;
+}
