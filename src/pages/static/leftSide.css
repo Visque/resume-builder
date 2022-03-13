@@ -1,0 +1,54 @@
+.dp-border{
+    border: 2px red solid;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.dp{
+    justify-content: space-around;
+    margin: 0.5rem auto; 
+    height: 200px;
+}
+
+.left-side-container{
+    margin: 1rem 0;
+}
+
+.skills{
+    width: inherit;
+}
+
+.skill{
+    /* background-color: aquamarine; */
+    width: 80px;
+    margin: 0.5rem 0;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.grid-item{
+    background-color: aquamarine;
+    color: green;
+    border-radius: 5px;
+    display: inline-grid;
+    margin: 0.5rem 0.5rem;
+    padding: 10px 15px;
+}
+
+.img{
+    margin: 0 5px 0 0;
+    height: 20px;
+    width: 20px;
+}
+
+.contact-item{
+    margin: 10px 0;
+}
+
+a{
+    text-decoration: none;
+    color:blueviolet;
+}
